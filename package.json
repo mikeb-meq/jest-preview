@@ -28,11 +28,6 @@
   "bin": {
     "jest-preview": "dist/cli/index.js"
   },
-  "files": [
-    "dist",
-    "transforms",
-    "cli"
-  ],
   "scripts": {
     "docs": "cd website && npm run start",
     "build:docs": "cd website && npm run build",
